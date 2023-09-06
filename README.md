@@ -38,10 +38,10 @@ And then enter the token it will directly check if it's valid so no worries, to 
 ### **Documentation**
 
 The tool is very easy to use as you can see
+```
+usage: DiscordDash {positional argument}
 
->usage: DiscordDash {positional argument}
->
->postional arguments:
+postional arguments:
     settings:
         -set : set a discord token to use 
         -reset : reset the discord token ot use
@@ -68,10 +68,10 @@ The tool is very easy to use as you can see
             -u -st set : get user status
             -u -st : get user status
             -u -nuke : destroy token
-            -u seizure : enable seizure mode```
+            -u seizure : enable seizure mode
+```
 
 ---
-
 ### Advertisement 
 
 This tool is for educational purpose only and must not be use a malicious way. I decline all the responsablities about what you will do with 
@@ -88,4 +88,18 @@ You can also check my latest project
 4. [Spoofize]('https://github.com/heygdrg/Spoofize') : a mass leave tool
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
