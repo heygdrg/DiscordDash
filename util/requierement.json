@@ -1,6 +1,8 @@
 {
     "modules": [
         "os",
-        "requests"
+        "requests",
+        "sys",
+        "datetime"
     ]
 }

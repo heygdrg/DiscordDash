@@ -1,6 +1,6 @@
 def help_menu():
     menu = """
-usage: DiscordDash {token} {positional argument}
+usage: DiscordDash {positional argument}
 
 postional arguments:
     settings:
@@ -11,7 +11,7 @@ postional arguments:
     Tools:
         Relationships:
             -r : get all the relationship
-            -r {user_id} : get information about a specific user in relationships
+            -r info {user_id} : get information about a specific user in relationships
             -r unadd {user_id} : unadd a friend
             -r add {user_id} : add a user
             -r send {user_id} : send a message to a user
