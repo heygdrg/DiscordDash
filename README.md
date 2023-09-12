@@ -70,8 +70,10 @@ postional arguments:
             -u -nuke : destroy token ❌
             -u seizure : enable seizure mode ❌
 ```
+
 The project is still a newborn so we are working to finish it as faster as we can ! stay updated of the new feature 
-Thz comande line that are mark with a ❌ are not usable and will make the tool crash only use the ✅ one's
+The comand that are mark with a ❌ are not usable and will make the tool crash only use the ✅ one's
+
 ---
 ### Advertisement 
 
