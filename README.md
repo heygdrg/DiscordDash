@@ -43,10 +43,10 @@ usage: DiscordDash {positional argument}
 
 postional arguments:
     settings:
-        -set : set a discord token to use 
-        -reset : reset the discord token ot use
-        -install : install all the dependencies
-        -help : help menu
+        -set : set a discord token to use ✅ 
+        -reset : reset the discord token ot use ✅ 
+        -install : install all the dependencies ✅ 
+        -help : help menu ✅ 
     Tools:
         Relationships:
             -r : get all the relationship ✅ 
