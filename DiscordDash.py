@@ -11,7 +11,8 @@ from Tools.relationship.relationship import gather_relationship
 
 def main():
     if len(sys.argv) < 2:
-        print("Veuillez fournir un mot en argument.")
+        print("please give an argument, here's some help ")
+        help_menu()
     else:
         if sys.argv[1] == '-help':
             help_menu()
